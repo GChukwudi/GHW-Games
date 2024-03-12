@@ -36,10 +36,12 @@ cd Rock-Paper-Scissors
 
 #### Install the required dependencies:
 
+```
+pip install cv2
+pip install cvzone
+```
 
-Copy code
-pip install opencv-python opencv-python-headless cvzone
-How to Play
+### How to Play
 Run the program by executing the main.py file:
 
 bash
