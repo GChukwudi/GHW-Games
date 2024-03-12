@@ -16,6 +16,7 @@ scores = [0, 0]
 escape=True
 
 imgComp = None # Computer Move
+initialTime = time.time()
 
 while escape==True:
     imgBG = cv2.imread("resources/bg.png")
