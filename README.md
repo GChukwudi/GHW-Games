@@ -26,7 +26,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/rock-paper-scissors-hand-game.git
+git clone https://github.com/GChukwudi/Rock-Paper-Scissors-ML
 Navigate to the project directory:
 
 bash
