@@ -9,6 +9,7 @@ The Rock Paper Scissors Hand Game is an interactive Python application that allo
 - Computer opponent with randomized moves.
 - Score tracking for multiple rounds of gameplay.
 - Easy-to-use keyboard controls to start and exit the game.
+![alt text](<2024-03-12 (1).png>)
 
 ### Technologies Used
 
@@ -34,7 +35,6 @@ cd Rock-Paper-Scissors
 
 Install the required dependencies:
 
-![alt text](<2024-03-12 (1).png>)
 
 Copy code
 pip install opencv-python opencv-python-headless cvzone
