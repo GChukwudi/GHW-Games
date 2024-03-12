@@ -44,9 +44,10 @@ pip install cvzone
 ### How to Play
 Run the program by executing the main.py file:
 
-bash
-Copy code
+```
 python main.py
+```
+
 The program will display the live webcam feed along with the game interface.
 
 Press the 's' key on your keyboard to start the game.
