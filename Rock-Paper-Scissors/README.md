@@ -28,9 +28,10 @@ git clone https://github.com/GChukwudi/GHW-Games.git
 
 Navigate to the project directory:
 
-bash
-Copy code
-cd rock-paper-scissors-hand-game
+```
+cd Rock-Paper-Scissors
+```
+
 Install the required dependencies:
 
 ![alt text](<2024-03-12 (1).png>)
