@@ -34,7 +34,7 @@ Navigate to the project directory:
 cd Rock-Paper-Scissors
 ```
 
-Install the required dependencies:
+#### Install the required dependencies:
 
 
 Copy code
