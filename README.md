@@ -1,4 +1,5 @@
-Rock Paper Scissors Hand Game
+## Rock Paper Scissors Hand Game
+
 The Rock Paper Scissors Hand Game is a fun and interactive Python application that allows users to play the classic game of rock-paper-scissors using hand gestures captured through their webcam. This project demonstrates the integration of computer vision techniques with game logic to create an engaging gaming experience.
 
 Features
