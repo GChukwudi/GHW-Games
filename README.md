@@ -16,6 +16,7 @@ The Rock Paper Scissors Hand Game is an interactive Python application that allo
 * OpenCV: OpenCV (Open Source Computer Vision Library) is utilized for capturing webcam input and processing hand gestures.
 * cvzone: The cvzone library is employed for simplified hand tracking and finger counting.
 * GitHub: Hosting platform for storing the project repository and source code.
+* GitHub Copilot: GitHub Copilot, an AI-powered coding assistant, provided suggestions and code completions throughout the development process, aiding in code generation and optimization.
 
 Installation
 Clone this repository to your local machine:
