@@ -19,7 +19,7 @@ imgComp = None # Computer Move
 initialTime = time.time()
 
 while escape==True:
-    imgBG = cv2.imread("resources/bg.png")
+    imgBG = cv2.imread("resources/background.png")
     success, img = cap.read()
 
     imgScaled = cv2.resize(img, (0, 0), None, 0.646, 0.646)
@@ -68,8 +68,8 @@ while escape==True:
         imgBG = cvzone.overlayPNG(imgBG, imgComp, (217, 389))
 
 
-    cv2.putText(imgBG, str(scores[0]), (410, 215), cv2.FONT_HERSHEY_PLAIN, 4, (255, 255, 255), 6)
-    cv2.putText(imgBG, str(scores[1]), (1112, 215), cv2.FONT_HERSHEY_PLAIN, 4, (255, 255, 255), 6)
+    cv2.putText(imgBG, str(scores[0]), (410, 215), cv2.FONT_HERSHEY_PLAIN, 4, (255, 0, 255), 6)
+    cv2.putText(imgBG, str(scores[1]), (1112, 215), cv2.FONT_HERSHEY_PLAIN, 4, (255, 0, 255), 6)
 
     cv2.imshow("BG", imgBG)
     key=cv2.waitKey(1)
