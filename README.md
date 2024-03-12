@@ -18,7 +18,8 @@ The Rock Paper Scissors Hand Game is an interactive Python application that allo
 * GitHub: Hosting platform for storing the project repository and source code.
 * GitHub Copilot: GitHub Copilot, an AI-powered coding assistant, provided suggestions and code completions throughout the development process, aiding in code generation and optimization.
 
-Installation
+### Installation
+
 Clone this repository to your local machine:
 
 
