@@ -4,14 +4,16 @@ The Rock Paper Scissors Hand Game is an interactive Python application that allo
 
 ### Features
 
-Real-time hand gesture recognition using OpenCV.
-Simple user interface displaying live webcam feed and game interface.
-Computer opponent with randomized moves.
-Score tracking for multiple rounds of gameplay.
-Easy-to-use keyboard controls to start and exit the game.
-Technologies Used
-Python: The core programming language used for developing the application.
-OpenCV: OpenCV (Open Source Computer Vision Library) is utilized for capturing webcam input and processing hand gestures.
+- Real-time hand gesture recognition using OpenCV.
+- Simple user interface displaying live webcam feed and game interface.
+- Computer opponent with randomized moves.
+- Score tracking for multiple rounds of gameplay.
+- Easy-to-use keyboard controls to start and exit the game.
+
+### Technologies Used
+
+* Python: The core programming language used for developing the application.
+* OpenCV: OpenCV (Open Source Computer Vision Library) is utilized for capturing webcam input and processing hand gestures.
 cvzone: The cvzone library is employed for simplified hand tracking and finger counting.
 Git: Version control system for tracking changes and collaborating on the project.
 GitHub: Hosting platform for storing the project repository and source code.
@@ -31,7 +33,7 @@ Copy code
 cd rock-paper-scissors-hand-game
 Install the required dependencies:
 
-bash![alt text](<2024-03-12 (1).png>)
+![alt text](<2024-03-12 (1).png>)
 
 Copy code
 pip install opencv-python opencv-python-headless cvzone
